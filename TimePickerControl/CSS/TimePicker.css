@@ -1,0 +1,15 @@
+.time-picker-container {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+
+.time-dropdown {
+    padding: 8px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    cursor: pointer;
+    background: white;
+    appearance: none;
+}
